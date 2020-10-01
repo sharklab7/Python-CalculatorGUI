@@ -11,6 +11,8 @@ Operations Available = 1. Addition
                        and many more.
 
 Advantages = 1. Compact and Fast
+             2. Cool and attractive GUI
+             3. Lots of functionality
 
 ------------------------------------BASICS------------------------------------------------
 Python = is a Dynamically Typed, Object Oriented Programming Language
@@ -35,4 +37,5 @@ root = Tk()          # 'root' is object of 'Tk' class
                      # we can create button, menu bar,etc on this base 
 
 root.mainloop()      # event loop -> called only once
+
 -------------------------------------------------------------------------------------
